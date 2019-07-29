@@ -12,6 +12,5 @@
     <node pkg="joy" type="joy_node" name="joy_node" />
 
     <node pkg="teleop_twist_joy" type="teleop_node" name="teleop_twist_joy"/>
-  </group>
 
 </launch>
