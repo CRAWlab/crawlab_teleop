@@ -7,7 +7,7 @@
   <group ns="joy_teleop">
 
     <group>
-      <rosparam command="load" file="$(find roboboat_teleop)/config/roboboat_te$
+      <rosparam command="load" file="$(find roboboat_teleop)/config/roboboat_teleop.yaml"/>
       <param name="joy_node/dev" value="$(arg joy_dev)" />
     </group>
 
